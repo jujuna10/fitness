@@ -13,6 +13,9 @@ module.exports = {
       },
       fontFamily:{
         anton: ['var(--font-anton)', 'sans-serif'],
+      },
+      backgroundImage:{
+        'custom-patter':"url('/bg.png')",
       }
     },
   },

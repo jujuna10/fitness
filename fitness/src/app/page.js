@@ -4,6 +4,8 @@ import HeroSection from "@/components/HeroSection";
 import Features from "@/components/Features";
 import Programs from "@/components/Progrmas";
 import Prices from "@/components/Prices";
+import Classes from "@/components/Classes";
+import Footer from "@/components/Footer";
 
 
 export default function Home() {
@@ -14,6 +16,8 @@ export default function Home() {
       <Features />
       <Programs />
       <Prices />
+      <Classes />
+      <Footer />
     </div>
   );
 }
